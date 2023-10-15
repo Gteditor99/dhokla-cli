@@ -1,0 +1,188 @@
+{
+  "message": "directory retrieved",
+  "data": {
+    "id": "7fee57df-b24f-47d9-ade2-d302eda43558",
+    "name": "Season 05",
+    "dir": true,
+    "parent": "fa62049f-3fa5-4231-a4ce-f03eabff4358",
+    "mtime": "2023-08-15T17:38:50.918272Z",
+    "files": [
+      {
+        "id": "3119e9aa-c9bb-480e-8cb0-2eb37aeabd41",
+        "name": "The.Rookie.S05E01.Double.Down.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1411989854,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T16:56:46Z"
+      },
+      {
+        "id": "7ea868a6-821c-44c3-8d52-bca086359d5b",
+        "name": "The.Rookie.S05E02.Labor.Day.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1221511102,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T16:58:51Z"
+      },
+      {
+        "id": "3982aee8-b4a0-4b08-aae8-06f5a7de2666",
+        "name": "The.Rookie.S05E03.Dye.Hard.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1683351021,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:10:20Z"
+      },
+      {
+        "id": "9fe9d5fa-c0eb-40f1-a239-e8cd9fc806d5",
+        "name": "The.Rookie.S05E04.The.Choice.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1208605213,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:10:23Z"
+      },
+      {
+        "id": "846e5a24-ddbc-42b0-b83c-9c6052c7a6ca",
+        "name": "The.Rookie.S05E05.The.Fugitive.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1299390905,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:11:30Z"
+      },
+      {
+        "id": "0778b31c-112c-42f4-8b9a-0c17fe47be6f",
+        "name": "The.Rookie.S05E06.The.Reckoning.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1378777603,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:13:08Z"
+      },
+      {
+        "id": "9009c440-1699-4abe-9408-1b29d49a0860",
+        "name": "The.Rookie.S05E07.Crossfire.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1596598796,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:13:18Z"
+      },
+      {
+        "id": "3d665a43-9083-45f1-8a0d-d821f6bb6c2d",
+        "name": "The.Rookie.S05E08.The.Collar.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 2112285619,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:15:18Z"
+      },
+      {
+        "id": "369a05d0-d376-40fb-b25c-541fc1302d5f",
+        "name": "The.Rookie.S05E09.Take.Back.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1324995204,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:15:49Z"
+      },
+      {
+        "id": "4b111fe9-d3d7-4ccb-9fff-333fb0fd6e9b",
+        "name": "The.Rookie.S05E10.The.List.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1576241731,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:16:28Z"
+      },
+      {
+        "id": "fd0f122b-f88f-4f8c-af31-05772641b6e4",
+        "name": "The.Rookie.S05E11.The.Naked.and.the.Dead.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1316816836,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:17:58Z"
+      },
+      {
+        "id": "ee19883d-8165-4f5f-a350-40c0bcf73957",
+        "name": "The.Rookie.S05E12.Death.Notice.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1158923309,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:18:17Z"
+      },
+      {
+        "id": "4bc756bd-daa5-4d5c-9724-58626c50a079",
+        "name": "The.Rookie.S05E13.Daddy.Cop.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1248390375,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:18:13Z"
+      },
+      {
+        "id": "dfbc07e8-ff2d-4df5-9c42-96afce482ba6",
+        "name": "The.Rookie.S05E14.Death.Sentence.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1130452180,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:18:07Z"
+      },
+      {
+        "id": "2374f9ec-ffd4-4c75-a0fd-f0a28cb3076c",
+        "name": "The.Rookie.S05E15.The.Con.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1103762272,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:18:14Z"
+      },
+      {
+        "id": "de37357f-b015-434c-9787-c2fbfb398366",
+        "name": "The.Rookie.S05E16.Exposed.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1752586478,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:18:19Z"
+      },
+      {
+        "id": "9b941666-1b02-4128-b94f-28682aeeb575",
+        "name": "The.Rookie.S05E17.The.Enemy.Within.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 979075589,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:18:30Z"
+      },
+      {
+        "id": "d7bda89b-42a9-444c-a15d-dc3168e733ae",
+        "name": "The.Rookie.S05E18.Double.Trouble.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1708531087,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:18:26Z"
+      },
+      {
+        "id": "3453d4f1-c35f-4672-8573-71b84fd3eed0",
+        "name": "The.Rookie.S05E19.A.Hole.in.the.World.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1318149839,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:18:29Z"
+      },
+      {
+        "id": "6be76b54-1c6a-4139-aa2a-5a8d608cd073",
+        "name": "The.Rookie.S05E20.S.T.R.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1316873005,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:18:35Z"
+      },
+      {
+        "id": "2efc9b3f-fc6a-4cdd-90df-ab7cff253419",
+        "name": "The.Rookie.S05E21.Going.Under.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1262693374,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:15:27Z"
+      },
+      {
+        "id": "72221099-e7e0-418e-84d6-9d8d2c152a0c",
+        "name": "The.Rookie.S05E22.Under.Siege.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+        "dir": false,
+        "size": 1282663772,
+        "parent": "7fee57df-b24f-47d9-ade2-d302eda43558",
+        "mtime": "2023-08-15T17:18:34Z"
+      }
+    ]
+  }
+}
