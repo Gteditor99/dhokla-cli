@@ -35,7 +35,7 @@
 
 This tool is intended for legal use only. <br>
 I do not condone piracy or illegal activity associated with the use of this tool. <br>
-It is your responsibility to use this tool <br>
+It is your responsibility to use this tool
 in compliance with your local regulations. <br>
 
 </table>
