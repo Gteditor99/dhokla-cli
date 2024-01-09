@@ -1,6 +1,6 @@
 <h1 align="center">
     <div align="center">
-        <img src="https://cdn.discordapp.com/icons/833998685578854461/12dbdac7b1a4d9e3a28aef464d2d69d9.webp?size=64" width=70>
+        <img src="https://dhokla.net/favicon.ico">
     </div>
 </h1>
 
